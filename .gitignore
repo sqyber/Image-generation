@@ -8,3 +8,13 @@ guided-diffusion/
 taming-transformers/
 
 LICENSE
+
+v-diffusion-jax/
+
+jax-guided-diffusion/
+
+CLIP_JAX/
+
+*.xml
+
+.idea/Image-generation.iml
